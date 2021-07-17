@@ -1,7 +1,4 @@
 Hola
 Bonjour
-<<<<<<< HEAD
 hello
-=======
 Konnichiwa
->>>>>>> japanese
